@@ -14,6 +14,8 @@
         - [复测筛查管理](/App/复测/复测筛查管理.md)
 
 - 后台
+    - 用户
+        - [用户信息](/后台/用户/用户信息.md)
     - EpiData下载
         - [EpiData下载](/后台/EpiData/EpiData.md)
     - 筛查
